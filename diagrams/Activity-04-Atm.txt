@@ -1,0 +1,14 @@
+ATM
+
+Insert card
+Enter PIN
+Authorize
+Valid?
+    Enter amount
+    Check account balance
+    Balance > amount?
+        Debit account
+        (At the same time) Take money from slot
+    Show balance
+Eject card
+Take card
