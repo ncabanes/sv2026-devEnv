@@ -1,0 +1,9 @@
+Patient: make / cancel appointment
+
+Receptionist: make / cancel / change appointment, bill patient
+
+Doctor: show / update medical record. 
+
+In the first visit, prior to showing the medical record, the doctor may need to initialize the medical record.
+
+All of them need login
