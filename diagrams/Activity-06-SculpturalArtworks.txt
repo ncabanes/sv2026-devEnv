@@ -1,0 +1,5 @@
+Create an activity diagram representing the workflow of those in charge of the final finishing of a series of sculptural artworks:
+
+The workers must go about supervising the surface of the piece. Every time a defect is found, it must be marked with a special ink that is erased simply with water, the repair material for imperfections must be prepared, applied, and left to dry. This process repeats as long as defects remain to be solved.
+
+When the result seems reasonable, the work is moved to the cleaning tunnel, where that defect-marking ink is removed. This last stage requires no attention from the operator, a moment they take advantage of to fill out the report with the quantity of corrections made and the time spent. Finally, a last visual inspection is carried out and, if everything is correct, the piece is packed for shipment. If any defect resulting from the washing process is detected, or one that had been overlooked in the first phase, the process would be repeated from the beginning.
