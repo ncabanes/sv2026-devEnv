@@ -1,0 +1,7 @@
+The program must be able to solve a quadratic equation such as Ax² + Bx + C = 0
+
+The user enter the values for A, B and C and the system will answer:
+
+- There is no solution
+- There is only one solution (and which one it is)
+- There are two solutions (and which ones they are)
