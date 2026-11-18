@@ -1,0 +1,5 @@
+Create a use case diagram representing the roles and actions involved in the following problem:
+
+We have created a small publishing house that provides online tools for science fiction novel writers. With it, every writer will be able to start a new book, as well as write text (or use dictation, if preferred and if they are on a device that allows it) at any point in one of their books (which they must have previously selected). They can also ask our Generative AI for recommendations to complete a certain chapter, as well as upload an image proposal for a book cover, or request our team to design a cover (again, the book must be selected beforehand for these actions).
+
+Meanwhile, reviewers can read any of the books and suggest changes. In this version, we do not yet wish to manage the work of graphic designers, translators, or any other team member, except for administrators, who will be able to register users or block their access. Of course, all these user types must identify themselves before accessing the system.
